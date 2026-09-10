@@ -1,0 +1,6 @@
+{
+  "name": "Vibes Girl | Moda Feminina",
+  "description": "Vibes Girl — moda feminina com personalidade, estilo e uma história construída a partir de um sonho.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
